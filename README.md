@@ -1,2 +1,3 @@
-# CodingStudy
+# CodingStudy 저장소입니다.
+## 함께하는 팀원들 모두 환영합니다.
  
